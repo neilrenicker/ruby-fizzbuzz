@@ -1,1 +1,1 @@
-This is the [FizzBuzz kata](http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz) coded in Ruby. I'm using [RSpec](http://rspec.info/) to create the kata in a test-driven manner.
+This is the [FizzBuzz kata](http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz) coded in Ruby. I'm using [RSpec](http://rspec.info/) to create the kata with test-driven development.
