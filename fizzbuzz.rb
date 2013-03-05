@@ -17,7 +17,7 @@ class Game
       elsif is_fizz?(number)
         "fizz"
       elsif is_buzz?(number)
-        "buzz"     
+        "buzz"
       else
         number
       end
