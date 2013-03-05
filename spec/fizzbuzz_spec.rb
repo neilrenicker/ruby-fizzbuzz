@@ -26,9 +26,9 @@ describe Game do
     game.run((1..5).to_a).should == [1, 2, "fizz", 4, "buzz"]
   end
 
-  it 'should return "14, fizzbuzz" for "14, 15"' do
+  it 'should return "14, FIZZBUZZ" for "14, 15"' do
     game = Game.new
-    game.run((14..15).to_a).should == [14, "fizzbuzz"]
+    game.run((14..15).to_a).should == [14, "FIZZBUZZ"]
   end
 
 end
