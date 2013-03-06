@@ -1,5 +1,3 @@
-require 'pry'
-
 class Game
 
   def is_fizz?(number)
